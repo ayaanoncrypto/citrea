@@ -1,6 +1,7 @@
 # Changelog
 ## [Unreleased]
 ### Changed
+- fix(bitcoin-da): handle empty UTXO context when building reveal transactions ([#3327](https://github.com/chainwayxyz/citrea/pull/3327))
 - fix(rpc): Set archival state in estimate tx expenses ([#3321](https://github.com/chainwayxyz/citrea/pull/3321))
 
 ## [v2.7.0](2026-07-29)
